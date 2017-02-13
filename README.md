@@ -6,7 +6,7 @@ This repository contains some of projects I achieved  in order to learn about ne
 
 ## Project 1:
 
-The project 1 focus on building a Neural Network to predict the number of bikeshare users on a given day. Imagine yourself owning a bikesharing company. You want to predict how many bycles you need beacuse if they are too few, you will loose money from potential rides, if they are too many, you will wating money on buying cycles just settled around.  You need to predict from historical datas how money bycles you will need to buy in the future.
+The project 1 focus on building a Neural Network to predict the number of bikeshare users on a given day. Imagine yourself owning a bikesharing company. You want to predict how many bycles you need beacuse if they are too few, you will loose money from potential rides, if they are too many, you will waste money on buying cycles just settled around.  You need to predict from historical datas how money bycles you will need to buy in the future.
 ![bikesharing](https://github.com/virt87/DeepLearning/blob/master/Bikeshare-neural-network/bikesharing.png)
 
 ### Dependencies
