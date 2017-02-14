@@ -28,3 +28,5 @@ conda install numpy matplotlib pandas jupyter notebook
 ```
 jupyter notebook bikesharing-neural-network.ipynb
 ```
+### Take a look
+You can open the jupyter notebook directly in github [bikesharing-neural-network.ipynb](https://github.com/virt87/DeepLearning/blob/master/Bikeshare-neural-network/bikesharing-neural-network.ipynb)
