@@ -114,5 +114,10 @@ conda install numpy pandas jupyter notebook matplotlib
 jupyter notebook Handwritten\ Digit\ Recognition\ with\ TFLearn.ipynb
 ```
 
+## Project 5:
+In this project, I'll classify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. I'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At then end, I'll see their predictions on the sample images.
+
+As an exercise, this project will run on a machine with GPU using floydhub.com.
+
 ### Take a look
 You can open the jupyter notebook directly in github [Handwritten Digit Recognition with TFLearn.ipynb](https://github.com/virt87/DeepLearning/blob/master/TFLearn/Handwritten%20Digit%20Recognition/Handwritten%20Digit%20Recognition%20with%20TFLearn.ipynb)
