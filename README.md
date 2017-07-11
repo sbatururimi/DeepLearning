@@ -123,5 +123,5 @@ In this project, I'll classify images from the [CIFAR-10](https://www.cs.toronto
 As an exercise, this project will run on a machine with GPU using floydhub.com.
 
 ### Take a look
-You can open the jupyter notebook directly in github [Image Classification](https://github.com/sbatururimi/DeepLearning/tree/master/Image%20Classification)
+You can open the jupyter notebook directly in github [Image Classification](https://github.com/sbatururimi/DeepLearning/blob/master/Image%20Classification/dlnd_image_classification.ipynb)
 
