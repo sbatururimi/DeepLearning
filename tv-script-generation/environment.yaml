@@ -1,0 +1,77 @@
+name: tv-script-generation
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- openssl=1.0.2l=0
+- pip=9.0.1=py36_1
+- python=3.6.2=0
+- readline=6.2=2
+- setuptools=27.2.0=py36_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py36_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- pip:
+  - appdirs==1.4.3
+  - appnope==0.1.0
+  - args==0.1.0
+  - bleach==2.0.0
+  - certifi==2017.7.27.1
+  - chardet==3.0.4
+  - click==6.7
+  - clint==0.5.1
+  - decorator==4.0.11
+  - entrypoints==0.2.2
+  - floyd-cli==0.10.7
+  - html5lib==0.999999999
+  - idna==2.6
+  - ipykernel==4.5.2
+  - ipython==5.3.0
+  - ipython-genutils==0.2.0
+  - ipywidgets==6.0.0
+  - jinja2==2.9.5
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.0.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - markupsafe==1.0
+  - marshmallow==2.13.6
+  - mistune==0.7.4
+  - nbconvert==5.1.1
+  - nbformat==4.3.0
+  - notebook==4.4.1
+  - numpy==1.12.1
+  - packaging==16.8
+  - pandocfilters==1.4.1
+  - pathlib2==2.3.0
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - prompt-toolkit==1.0.14
+  - protobuf==3.2.0
+  - ptyprocess==0.5.1
+  - pygments==2.2.0
+  - pyparsing==2.2.0
+  - python-dateutil==2.6.0
+  - pytz==2017.2
+  - pyzmq==16.0.2
+  - qtconsole==4.3.0
+  - requests==2.18.4
+  - requests-toolbelt==0.8.0
+  - shortuuid==0.5.0
+  - simplegeneric==0.8.1
+  - six==1.10.0
+  - tabulate==0.7.7
+  - tensorflow==1.0.0
+  - terminado==0.6
+  - testpath==0.3
+  - tornado==4.4.3
+  - traitlets==4.3.2
+  - urllib3==1.22
+  - wcwidth==0.1.7
+  - webencodings==0.5
+  - widgetsnbextension==2.0.0
+prefix: /Users/virt/anaconda/envs/tv-script-generation
+
