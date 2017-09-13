@@ -144,3 +144,10 @@ $ floyd run --mode jupyter --gpu
 You can open the jupyter notebook directly in github 
  [TV script generation with RNN](https://github.com/sbatururimi/DeepLearning/blob/master/tv-script-generation/dlnd_tv_script_generation.ipynb)
 
+## Project 7:
+A case study of Transfer Learning.
+
+In practice, you won't typically be training your own huge networks. There are multiple models out there that have been trained for weeks on huge datasets like ImageNet. In this project, I'll be using one of these pretrained networks, VGGNet, to classify images of flowers.
+
+[Transfer Learning](https://github.com/sbatururimi/DeepLearning/blob/master/transfer-learning/Transfer_Learning.ipynb)
+
