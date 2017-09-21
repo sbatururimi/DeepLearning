@@ -129,7 +129,7 @@ You can open the jupyter notebook directly in github [Image Classification](http
 ## Project 6:
 In this project, I played with a Recurren Neural network implementing LSTM cells in order to generate my own Simpsons TV script. I used a part of the Simpsons dataset of scripts from 27 seasons. The Neural Network I built  generate a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using FloydHub.
 
-In order to run in, setup Conda, then activate an environment:
+In order to run it, setup Conda, then activate an environment:
 ```
 $ conda env create -f environment.yaml
 ```
