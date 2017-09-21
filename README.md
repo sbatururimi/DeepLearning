@@ -151,3 +151,9 @@ In practice, you won't typically be training your own huge networks. There are m
 
 [Transfer Learning](https://github.com/sbatururimi/DeepLearning/blob/master/transfer-learning/Transfer_Learning.ipynb)
 
+## Project 8:
+
+A languag translation project using Sequence to Sequence model. It has been trained on  GPU, using Floyd.
+This Sequence to Sequence model is trained on a dataset of English and French sentences and can translate new sentences from English to French.
+
+[Language translation](https://github.com/sbatururimi/DeepLearning/blob/master/language-translation/dlnd_language_translation.ipynb)
