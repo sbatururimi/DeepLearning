@@ -165,3 +165,8 @@ Building an Autoencoder Neural network to compress and denoise images
 [Compress without convolutions](https://github.com/sbatururimi/DeepLearning/blob/master/autoencoder/Simple_Autoencoder.ipynb)
 
 [Compress and denoise with convolutions](https://github.com/sbatururimi/DeepLearning/blob/master/autoencoder/Convolutional_Autoencoder.ipynb)
+
+## Project 10:
+Training a GAN on MNIST to generate new handwritten digits
+
+[A generative adversarial network (GAN) trained on the MNIST dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/gan_mnist/Intro_to_GANs_Exercises.ipynb)
