@@ -157,3 +157,11 @@ A languag translation project using Sequence to Sequence model. It has been trai
 This Sequence to Sequence model is trained on a dataset of English and French sentences and can translate new sentences from English to French.
 
 [Language translation](https://github.com/sbatururimi/DeepLearning/blob/master/language-translation/dlnd_language_translation.ipynb)
+
+
+## Project 9: 
+Building an Autoencoder Neural network to compress and denoise images
+
+[Compress without convolutions](https://github.com/sbatururimi/DeepLearning/blob/master/autoencoder/Simple_Autoencoder.ipynb)
+
+[Compress and denoise with convolutions](https://github.com/sbatururimi/DeepLearning/blob/master/autoencoder/Convolutional_Autoencoder.ipynb)
