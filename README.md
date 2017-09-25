@@ -170,3 +170,9 @@ Building an Autoencoder Neural network to compress and denoise images
 Training a GAN on MNIST to generate new handwritten digits
 
 [A generative adversarial network (GAN) trained on the MNIST dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/gan_mnist/Intro_to_GANs_Exercises.ipynb)
+
+
+## Project 11:
+Training a GAN on CelebA to generate new images of human faces
+
+[A generative adversarial network (GAN) trained on the CelebA dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/face_generation/dlnd_face_generation.ipynb)
