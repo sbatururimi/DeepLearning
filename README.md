@@ -173,6 +173,18 @@ Training a GAN on MNIST to generate new handwritten digits
 
 
 ## Project 11:
+A simple case study of the batch normalization for normalizing the inputs to layers within the network.
+
+[Batch normalization](https://github.com/sbatururimi/DeepLearning/blob/master/batch-norm/Batch_Normalization_Lesson.ipynb)
+
+
+## Project 12:
+Building a  Deep Convolutional GAN, i.e DCGAN, using convolutional layers in the generator and discriminator. I'll be training DCGAN on the [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/) (SVHN) dataset. These are color images of house numbers collected from Google street view. SVHN images are in color and much more variable than MNIST.
+
+
+
+## Project 13:
 Training a GAN on CelebA to generate new images of human faces
 
 [A generative adversarial network (GAN) trained on the CelebA dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/face_generation/dlnd_face_generation.ipynb)
+
