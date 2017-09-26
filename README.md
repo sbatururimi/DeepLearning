@@ -184,7 +184,7 @@ Building a  Deep Convolutional GAN, i.e DCGAN, using convolutional layers in the
 
 
 ## Project 13:
-Training a GAN on CelebA to generate new images of human faces
+Training a DCGAN on CelebA to generate new images of human faces
 
 [A generative adversarial network (GAN) trained on the CelebA dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/face_generation/dlnd_face_generation.ipynb)
 
