@@ -189,3 +189,7 @@ Training a DCGAN on CelebA to generate new images of human faces
 
 [A generative adversarial network (GAN) trained on the CelebA dataset.](https://github.com/sbatururimi/DeepLearning/blob/master/face_generation/dlnd_face_generation.ipynb)
 
+## Project 14:
+Training a semi-supervised GAN for the SVHN (Street View House Numbers) dataset to generate new images and attempt to classify the images with a large proportion of the labels dropped.
+[Semi-supervised Learning.](https://github.com/sbatururimi/DeepLearning/blob/master/semi-supervised/semi-supervised_learning_2.ipynb)
+
