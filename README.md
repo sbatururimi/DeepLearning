@@ -2,36 +2,20 @@
 
 ## Overview 
 
-This repository contains some of projects I achieved  in order to learn about neural networks. It focus on deep-learning, using different types of neural networks and approaches .
+This repository lists several deep learning project I achieved, using different types of neural networks and approaches.
 
+## Project 1:
+Predict the number of bikeshare users on a given day by building my own deep-learning library.
+https://github.com/sbatururimi/bikeshare_neural_network
 
-
+## Project 2:
+Sentiment analysis with Andrew Trask, a project that classify a movie's review as positive or negative.
+https://github.com/sbatururimi/sentiment_analysis
 
 ## Project 3:
 Sentiment analysis with TFLearn. The same work as the previous project by now using TFLearn.
+https://github.com/sbatururimi/sentiment_analysis_TFLearn
 
-### Dependencies
-
-* Download anaconda
-```
-conda create -n tflearn python=3.5
-```
-
-* Activate the source
-```
-source activate tflearn
-```
-* Ensure you have numpy, jupyter notebook, matplotlib and pandas.
-```
-conda install numpy pandas jupyter notebook matplotlib
-```
-* Run the following to open up the notebook:
-```
-jupyter notebook Sentiment\ Analysis\ with\ TFLearn.ipynb
-```
-
-### Take a look
-You can open the jupyter notebook directly in github [Sentiment Analysis with TFLearn.ipynb](https://github.com/virt87/DeepLearning/blob/master/TFLearn/sentiment-analysis/Sentiment Analysis with TFLearn.ipynb)
 
 
 
