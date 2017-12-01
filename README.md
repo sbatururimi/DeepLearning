@@ -23,9 +23,9 @@ https://github.com/sbatururimi/Handwritten-Digit-Recognition-TFLearn.git
 
 
 ## Project 5:
-In this project, I'll classify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. I'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At then end, I'll see their predictions on the sample images.
+Classify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset using a Convolutional Network with Tensorflow. Trained on a machine with GPU in [floydhub](https://www.floydhub.com).
 
-As an exercise, this project will run on a machine with GPU using floydhub.com.
+https://github.com/sbatururimi/image_classification_deep_learning
 
 ### Take a look
 You can open the jupyter notebook directly in github [Image Classification](https://github.com/sbatururimi/DeepLearning/blob/master/Image%20Classification/dlnd_image_classification.ipynb)
@@ -97,3 +97,5 @@ Training a DCGAN on CelebA to generate new images of human faces
 Training a semi-supervised GAN for the SVHN (Street View House Numbers) dataset to generate new images and attempt to classify the images with a large proportion of the labels dropped.
 [Semi-supervised Learning.](https://github.com/sbatururimi/DeepLearning/blob/master/semi-supervised/semi-supervised_learning_2.ipynb)
 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbatururimi/DeepLearning/blob/master/LICENSE)
