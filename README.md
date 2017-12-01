@@ -27,9 +27,6 @@ Classify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 https://github.com/sbatururimi/image_classification_deep_learning
 
-### Take a look
-You can open the jupyter notebook directly in github [Image Classification](https://github.com/sbatururimi/DeepLearning/blob/master/Image%20Classification/dlnd_image_classification.ipynb)
-
 
 ## Project 6:
 In this project, I played with a Recurrent Neural network implementing LSTM cells in order to generate my own Simpsons TV script. I used a part of the Simpsons dataset of scripts from 27 seasons. The Neural Network I built  generate a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using FloydHub.
