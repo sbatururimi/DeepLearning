@@ -29,22 +29,9 @@ https://github.com/sbatururimi/image_classification_deep_learning
 
 
 ## Project 6:
-In this project, I played with a Recurrent Neural network implementing LSTM cells in order to generate my own Simpsons TV script. I used a part of the Simpsons dataset of scripts from 27 seasons. The Neural Network I built  generate a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using FloydHub.
+ Building a Recurrent Neural network implementing LSTM cells in order to generate a new Simpsons TV script. The Simpsons dataset of scripts from 27 seasons was used. The Neural Network generates a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using [floydhub](https://www.floydhub.com).
 
-In order to run it, setup Conda, then activate an environment:
-```
-$ conda env create -f environment.yaml
-```
-Setup floyd hub and launch it in GPU mode:
-```
-$ floyd login
-$ floyd init
-$ floyd run --mode jupyter --gpu
-```
-
-### Take a look
-You can open the jupyter notebook directly in github 
- [TV script generation with RNN](https://github.com/sbatururimi/DeepLearning/blob/master/tv-script-generation/dlnd_tv_script_generation.ipynb)
+https://github.com/sbatururimi/tv-script-generation
 
 ## Project 7:
 A case study of Transfer Learning.
